@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>🤓 I'm currently improving English, Clean Architecture, Clean Code , Swift and +.<br>🎯 Goals: speak fluent english 🇺🇸, every day a little bit better. <br>📚 I also like to read manga and books.</p>
+<p align="left">✨ Creating bugs since 2017<br>🤓 I'm currently improving: Clean Architecture, Clean Code , Swift and +.<br>🎯 Goals: speak fluent english 🇺🇸, every day a little bit better. <br>📚 I also like to read manga and books.</p>
 
 ###
 
